@@ -154,6 +154,7 @@ require (
 	github.com/thomasklein94/packer-plugin-libvirt v0.3.4
 	github.com/tidwall/gjson v1.14.3
 	github.com/tinylib/msgp v1.1.6
+	github.com/tormoder/fit v0.13.0
 	github.com/urfave/cli/v2 v2.23.5
 	github.com/vapourismo/knx-go v0.0.0-20220829185957-fb5458a5389d
 	github.com/vjeantet/grok v1.0.1
@@ -191,11 +192,17 @@ require (
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.13.8 // indirect
+	github.com/client9/misspell v0.3.4 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.0 // indirect
+	github.com/gordonklaus/ineffassign v0.0.0-20210225214923-2e10b2664254 // indirect
+	github.com/kisielk/errcheck v1.6.0 // indirect
+	github.com/mdempsky/unconvert v0.0.0-20190325185700-2f5dc3378ed3 // indirect
 	github.com/uber/jaeger-client-go v2.30.0+incompatible // indirect
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	go.opentelemetry.io/otel/metric v0.32.1 // indirect
 	go.uber.org/zap v1.22.0 // indirect
+	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
+	mvdan.cc/gofumpt v0.1.0 // indirect
 )
 
 require (
